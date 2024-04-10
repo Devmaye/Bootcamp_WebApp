@@ -57,7 +57,7 @@
 			        <ul class="nav-menu">
 			          <li><a href="viewer.php">Home</a></li>
 			          <li><a href="about.php">About</a></li>
-			          <li><a href="course_d1_u.php">Courses</a></li>
+			          <li><a href="courses.php">Courses</a></li>
 			          <li><a href="events.php">Events</a></li>					          					          		          
 			        </ul>
 			      </nav><!-- #nav-menu-container -->		    		
@@ -157,7 +157,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="courses.php">
 										<h4>
 											Learn Web Development
 										</h4>
@@ -178,7 +178,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="courses.php">
 										<h4>
 											Learn Data Science
 										</h4>
@@ -200,7 +200,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="courses.php">
 										<h4>
 											Learn Designing
 										</h4>
@@ -222,7 +222,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="courses.php">
 										<h4>
 											Learn Cybersecurity
 										</h4>
@@ -410,8 +410,8 @@
 										<div class="single-footer-widget">
 											<h4>Quick links</h4>
 											<ul>
-												<li><a href="#">Courses</a></li>
-												<li><a href="#">Upcoming Events</a></li>
+												<li><a href="courses.php">Courses</a></li>
+												<li><a href="events.php">Upcoming Events</a></li>
 												<li><a href="#">Privacy</a></li>
 												<li><a href="#">Terms of Service</a></li>
 											</ul>								

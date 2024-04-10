@@ -96,7 +96,7 @@
 									<p>
 										Uncover a transformative learning experience with our comprehensive bootcamp. Explore industry-relevant skills, expert-led sessions, and hands-on projects. Click "Learn More" to dive into the future of your career.
 									</p>
-									<a href="#">Join Now</a>									
+									<a href="courses.php">Join Now</a>									
 								</div>
 							</div>
 						</div>
@@ -109,7 +109,7 @@
 									<p>
 										Immerse yourself in a vast array of resources within our bootcamp. From video lectures to interactive assignments, our extensive library ensures you have everything you need for a successful learning journey.
 									</p>
-									<a href="#">Join Now</a>									
+									<a href="courses.php">Join Now</a>									
 								</div>
 							</div>
 						</div>
@@ -122,7 +122,7 @@
 									<p>
 										Be part of a dynamic community at our bootcamp. Connect with like-minded learners, industry experts, and mentors. Join now to not only expand your skills but also to thrive in a supportive and collaborative learning environment.
 									</p>
-									<a href="#">Join Now</a>									
+									<a href="courses.php">Join Now</a>									
 								</div>
 							</div>
 						</div>												
