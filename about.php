@@ -56,7 +56,7 @@
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
-			          <li><a href="about.php">Home</a></li>
+			          <li><a href="view.php">Home</a></li>
 			          <li><a href="about.php">About</a></li>
 			          <li><a href="courses.php">Courses</a></li>
 			          <li><a href="events.php">Events</a></li>					          					          		          
@@ -197,7 +197,7 @@
                         </div>
                         <div class="col-md-6 video-right justify-content-center align-items-center d-flex relative">
                         	<div class="overlay overlay-bg"></div>
-							<a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM"><img class="img-fluid mx-auto" src="img/play.png" alt=""></a>
+							<a class="play-btn" href="https://www.youtube.com/watch?v=uLhHmzT4hMk"><img class="img-fluid mx-auto" src="img/play.png" alt=""></a>
                         </div>
                     </div>
 				</div>	
@@ -217,8 +217,8 @@
 							<div class="single-footer-widget">
 								<h4>Quick links</h4>
 								<ul>
-									<li><a href="#">Courses</a></li>
-									<li><a href="#">Upcoming Events</a></li>
+									<li><a href="courses.php">Courses</a></li>
+									<li><a href="events.php">Upcoming Events</a></li>
 									<li><a href="#">Privacy</a></li>
 									<li><a href="#">Terms of Service</a></li>
 								</ul>								

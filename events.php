@@ -89,7 +89,7 @@
 						<div class="col-lg-6 pb-30">
 							<div class="single-carusel row align-items-center">
 								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/eventsdeets/coding.jpg" alt="">
+									<img class="img-fluid" src="img/Profile (1).webp" alt="">
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
@@ -104,7 +104,7 @@
 						<div class="col-lg-6 pb-30">
 							<div class="single-carusel row align-items-center">
 								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/eventsdeets/data.jpg" alt="">
+									<img class="img-fluid" src="img/flutter.webp" alt="">
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
@@ -119,7 +119,7 @@
 						<div class="col-lg-6 pb-30">
 							<div class="single-carusel row align-items-center">
 								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/eventsdeets/web.jpg" alt="">
+									<img class="img-fluid" src="img/empowering.webp" alt="">
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
@@ -134,7 +134,7 @@
 						<div class="col-lg-6 pb-30">
 							<div class="single-carusel row align-items-center">
 								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/eventsdeets/cyber.jpg" alt="">
+									<img class="img-fluid" src="img/front-end.webp" alt="">
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
