@@ -12,7 +12,7 @@ Our project aims to:
   - Incorporate soft skills modules to prepare participants' for effective colaboration in professional settings.
   - Evaluate the impact of botcamps in students' understanding and readiness for future career opportunities.
 
-<h2>How to COntribute</h2>
+<h2>How to Contribute</h2>
 We welcome contributotions form developers, educators, and researchers interested in improving educational oractices
 and assessing the effectiveness of eduational programs. If you'd like to contribute, please follow these steps:
 1. Fork the repository
