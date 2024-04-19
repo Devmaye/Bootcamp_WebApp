@@ -4,7 +4,7 @@ This initiative aims to address the challenges faced by educational insitutions 
 thw rapidly changing technological landscape. Additionally, we seek to evaluate the effectiveness of specialized bootcamps 
 in enhancing students' practical skills and preparing them for future career oportunities.
 
-##Objectives
+<h1>Objectives</h1>
 Our project aims to:
   - Establish a collaborative learning environment, fostering teamwork and effective communication
   - Develop participants' problem-solving skills through coding challenges
@@ -12,7 +12,7 @@ Our project aims to:
   - Incorporate soft skills modules to prepare participants' for effective colaboration in professional settings.
   - Evaluate the impact of botcamps in students' understanding and readiness for future career opportunities.
 
-##How to Contribute
+<h2>How to COntribute</h2>
 We welcome contributotions form developers, educators, and researchers interested in improving educational oractices
 and assessing the effectiveness of eduational programs. If you'd like to contribute, please follow these steps:
 1. Fork the repository
