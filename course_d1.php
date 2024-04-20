@@ -53,7 +53,7 @@
 		    <div class="container main-menu">
 		    	<div class="row align-items-center justify-content-between d-flex">
 			      <div id="logo">
-			        <a href="user.php"><img src="img/codetier.png" alt="" title="" /></a>
+			        <a href="index.php"><img src="img/codetier.png" alt="" title="" /></a>
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
@@ -549,8 +549,8 @@
 							<div class="single-footer-widget">
 								<h4>Quick links</h4>
 								<ul>
-									<li><a href="#">Courses</a></li>
-									<li><a href="#">Upcoming Events</a></li>
+									<li><a href="courses.php">Courses</a></li>
+									<li><a href="events.php">Upcoming Events</a></li>
 									<li><a href="#">Privacy</a></li>
 									<li><a href="#">Terms of Service</a></li>
 								</ul>								
