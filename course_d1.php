@@ -57,7 +57,7 @@
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
-			          <li><a href="user.php">Home</a></li>
+			          <li><a href="index.php">Home</a></li>
 			          <li><a href="about.php">About</a></li>
 			          <li><a href="course_d1_u.php">Courses</a></li>
 			          <li class="menu-has-children"><a href="events.php">Events</a>
