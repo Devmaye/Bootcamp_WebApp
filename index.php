@@ -59,15 +59,15 @@
 			        <ul class="nav-menu">
 			          <li><a href="user.php">Home</a></li>
 			          <li><a href="about.php">About</a></li>
-			          <li><a href="course_d1_u.php">Courses</a></li>
+			          <li><a href="courses.php">Courses</a></li>
 			          <li class="menu-has-children"><a href="events.php">Events</a>
 			            <ul>
-			              <li><a href="#">Upcoming Events</a></li>
+			              <li><a href="events.php">Upcoming Events</a></li>
 			              <li><a href="#">Past Events</a></li>
 			            </ul>
 			          </li>
-								<li><a href="#">Organizers</a></li>
-			          <li><a href="#">Gallery</a></li>					          					          		          
+								<li><a href="organizers.php">Organizers</a></li>
+			          <li><a href="gallery.php">Gallery</a></li>					          					          		          
 			        </ul>
 			      </nav><!-- #nav-menu-container -->		    		
 		    	</div>
@@ -166,7 +166,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d1.php">
 										<h4>
 											Learn Web Development
 										</h4>
@@ -187,7 +187,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d2.php">
 										<h4>
 											Learn Data Science
 										</h4>
@@ -209,7 +209,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d3.php">
 										<h4>
 											Learn Designing
 										</h4>
@@ -231,7 +231,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d4.php">
 										<h4>
 											Learn Cybersecurity
 										</h4>
