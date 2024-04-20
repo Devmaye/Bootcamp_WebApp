@@ -53,21 +53,21 @@
 		    <div class="container main-menu">
 		    	<div class="row align-items-center justify-content-between d-flex">
 			      <div id="logo">
-			        <a href="user.php"><img src="img/codetier.png" alt="" title="" /></a>
+			        <a href="index.php"><img src="img/codetier.png" alt="" title="" /></a>
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
-			          <li><a href="user.php">Home</a></li>
+			          <li><a href="index.php">Home</a></li>
 			          <li><a href="about.php">About</a></li>
-			          <li><a href="course_d1_u.php">Courses</a></li>
+			          <li><a href="courses.php">Courses</a></li>
 			          <li class="menu-has-children"><a href="events.php">Events</a>
 			            <ul>
-			              <li><a href="#">Upcoming Events</a></li>
+			              <li><a href="events.php">Upcoming Events</a></li>
 			              <li><a href="#">Past Events</a></li>
 			            </ul>
 			          </li>
-								<li><a href="#">Organizers</a></li>
-			          <li><a href="#">Gallery</a></li>					          					          		          
+								<li><a href="organizers.php">Organizers</a></li>
+			          <li><a href="gallery.php">Gallery</a></li>					          					          		          
 			        </ul>
 			      </nav><!-- #nav-menu-container -->		    		
 		    	</div>
@@ -189,8 +189,8 @@
 							<div class="single-footer-widget">
 								<h4>Quick links</h4>
 								<ul>
-									<li><a href="#">Courses</a></li>
-									<li><a href="#">Upcoming Events</a></li>
+									<li><a href="courses.php">Courses</a></li>
+									<li><a href="events.php">Upcoming Events</a></li>
 									<li><a href="#">Privacy</a></li>
 									<li><a href="#">Terms of Service</a></li>
 								</ul>								
