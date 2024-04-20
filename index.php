@@ -53,7 +53,7 @@
 		    <div class="container main-menu">
 		    	<div class="row align-items-center justify-content-between d-flex">
 			      <div id="logo">
-			        <a href="user.php"><img src="img/codetier.png" alt="" title="" /></a>
+			        <a href="index.php"><img src="img/codetier.png" alt="" title="" /></a>
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
@@ -253,7 +253,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d1.php">
 										<h4>
 											Learn Web Development
 										</h4>
@@ -274,7 +274,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d2.php">
 										<h4>
 											Learn Data Science
 										</h4>
@@ -296,7 +296,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d3.php">
 										<h4>
 											Learn Designing
 										</h4>
@@ -318,7 +318,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d4.php">
 										<h4>
 											Learn Cybersecurity
 										</h4>
