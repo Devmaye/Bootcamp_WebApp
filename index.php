@@ -57,7 +57,7 @@
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
-			          <li><a href="user.php">Home</a></li>
+			          <li><a href="index.php">Home</a></li>
 			          <li><a href="about.php">About</a></li>
 			          <li><a href="courses.php">Courses</a></li>
 			          <li class="menu-has-children"><a href="events.php">Events</a>
@@ -354,7 +354,7 @@
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
-									<a href="#"><h4>Solve: Solutions
+									<a href="event_d1.php"><h4>Solve: Solutions
 									Challenge Visayas</h4></a>
 									<p>
 										A Visayas-wide collaborative hackathon event by GDSC. Create solutions, create a better future.
@@ -367,7 +367,7 @@
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
-									<a href="#"><h4>Flutter x TensorFlow
+									<a href="event_d2.php"><h4>Flutter x TensorFlow
 									Lite Study Jams</h4></a>
 									<p>
 										Through this event, participants both beginners and experienced will be guided through a step-by-step tutorial on how to build an object detector mobile application using Flutter and TensorFlow Lite.
@@ -380,7 +380,7 @@
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
-									<a href="#"><h4>Transcend: Empowering Women
+									<a href="event_d3.php"><h4>Transcend: Empowering Women
 									Leaders in Tech</h4></a>
 									<p>
 										Delve into the dynamic tech industry and its evolving landscape for women in STEM. This event explores both the positive strides made towards inclusivity and the challenges that still remain. 
@@ -393,7 +393,7 @@
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
-									<a href="#"><h4>#IAmRemarkable</h4></a>
+									<a href="event_d4.php"><h4>#IAmRemarkable</h4></a>
 									<p>
 										The event, #IAmRemarkable, aims to transform and address the social perception of women, people with disabilities, the LGBTQIA+ community, and other underrepresented groups in general, while promoting innovation in them.									</p>
 									</p>
