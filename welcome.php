@@ -244,7 +244,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d1.php">
 										<h4>
 											Learn Web Development
 										</h4>
@@ -265,7 +265,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d2.php">
 										<h4>
 											Learn Data Science
 										</h4>
@@ -287,7 +287,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d3.php">
 										<h4>
 											Learn Designing
 										</h4>
@@ -309,7 +309,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d4.php">
 										<h4>
 											Learn Cybersecurity
 										</h4>
@@ -712,7 +712,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d1.php">
 										<h4>
 											Learn Web Development
 										</h4>
@@ -733,7 +733,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d2.php">
 										<h4>
 											Learn Data Science
 										</h4>
@@ -755,7 +755,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d3.php">
 										<h4>
 											Learn Designing
 										</h4>
@@ -777,7 +777,7 @@
 									</div>									
 								</div>
 								<div class="details">
-									<a href="#">
+									<a href="course_d4.php">
 										<h4>
 											Learn Cybersecurity
 										</h4>
@@ -813,7 +813,7 @@
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
-									<a href="#"><h4>Solve: Solutions
+									<a href="event_d1.php"><h4>Solve: Solutions
 									Challenge Visayas</h4></a>
 									<p>
 										A Visayas-wide collaborative hackathon event by GDSC. Create solutions, create a better future.
@@ -826,7 +826,7 @@
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
-									<a href="#"><h4>Flutter x TensorFlow
+									<a href="event_d2.php"><h4>Flutter x TensorFlow
 									Lite Study Jams</h4></a>
 									<p>
 										Through this event, participants both beginners and experienced will be guided through a step-by-step tutorial on how to build an object detector mobile application using Flutter and TensorFlow Lite.
@@ -839,7 +839,7 @@
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
-									<a href="#"><h4>Transcend: Empowering Women
+									<a href="event_d3.php"><h4>Transcend: Empowering Women
 									Leaders in Tech</h4></a>
 									<p>
 										Delve into the dynamic tech industry and its evolving landscape for women in STEM. This event explores both the positive strides made towards inclusivity and the challenges that still remain. 
@@ -852,7 +852,7 @@
 								</div>
 								<div class="detials col-12 col-md-6">
 									<p>16th March, 2024</p>
-									<a href="#"><h4>A Front-end
+									<a href="event_d4.php"><h4>A Front-end
 									Development</h4></a>
 									<p>
 										Build a practical project to showcase your newfound skills
