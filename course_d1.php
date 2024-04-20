@@ -59,15 +59,15 @@
 			        <ul class="nav-menu">
 			          <li><a href="index.php">Home</a></li>
 			          <li><a href="about.php">About</a></li>
-			          <li><a href="course_d1_u.php">Courses</a></li>
+			          <li><a href="courses.php">Courses</a></li>
 			          <li class="menu-has-children"><a href="events.php">Events</a>
 			            <ul>
-			              <li><a href="#">Upcoming Events</a></li>
+			              <li><a href="events.php">Upcoming Events</a></li>
 			              <li><a href="#">Past Events</a></li>
 			            </ul>
 			          </li>
-								<li><a href="#">Organizers</a></li>
-			          <li><a href="#">Gallery</a></li>					          					          		          
+								<li><a href="organizers.php">Organizers</a></li>
+			          <li><a href="gallery.php">Gallery</a></li>					          					          		          
 			        </ul>
 			      </nav><!-- #nav-menu-container -->		    		
 		    	</div>
